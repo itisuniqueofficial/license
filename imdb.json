@@ -1,25 +1,13 @@
 {
   "licenses": [
     {
-      "buyer": "It Is Unique Official",
-      "allowed_domains": [
-        "127.0.0.1:3000",
-        "itisuniqueofficial.com",
-        "imdb.itisuniqueofficial.com"
-      ],
-      "purchased_date": "2025-03-03",
-      "country": "India",
-      "product_link": "https://www.itisuniqueofficial.com/p/product.html"
+      "domain": ["imdb.itisuniqueofficial.com"]
     },
     {
-      "buyer": "Example Buyer",
-      "allowed_domains": [
-        "example.com",
-        "sub.example.com"
-      ],
-      "purchased_date": "2025-03-01",
-      "country": "USA",
-      "product_link": "https://www.example.com/product.html"
+      "domain": ["js.itisuniqueofficial.com"]
+    },
+    {
+      "domain": ["localhost", "127.0.0.1"]
     }
   ]
 }
