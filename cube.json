@@ -1,13 +1,8 @@
 {
   "licenses": [
-    {
-      "domain": [
-        "imdb.itisuniqueofficial.com",
-        "js.itisuniqueofficial.com",
-        "localhost",
-        "127.0.0.1",
-        "cube-portfolio.blogspot.com"
-      ]
-    }
+    {"domain": ["imdb.itisuniqueofficial.com"]},
+    {"domain": ["js.itisuniqueofficial.com"]},
+    {"domain": ["localhost", "127.0.0.1"]},
+    {"domain": ["cube-portfolio.blogspot.com"]}
   ]
 }
