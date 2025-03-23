@@ -1,1 +1,39 @@
-
+{
+  "licenses": {
+    "imdb.itisuniqueofficial.com": {
+      "expires": "2026-01-01",
+      "status": "active",
+      "buyer_name": "Jaydatt Khodave",
+      "buyer_country": "India",
+      "purchase_date": "2025-03-01",
+      "license_type": "Premium"
+    },
+    "itisuniqueofficial.github.io": {
+      "expires": "2026-12-31",
+      "status": "active",
+      "buyer_name": "It Is Unique Official",
+      "buyer_country": "Global",
+      "purchase_date": "2025-02-15",
+      "license_type": "Enterprise"
+    },
+    "localhost": {
+      "expires": "9999-12-31",
+      "status": "active",
+      "buyer_name": "Development Mode",
+      "buyer_country": "N/A",
+      "purchase_date": "N/A",
+      "license_type": "Unlimited"
+    },
+    "127.0.0.1": {
+      "expires": "9999-12-31",
+      "status": "active",
+      "buyer_name": "Development Mode",
+      "buyer_country": "N/A",
+      "purchase_date": "N/A",
+      "license_type": "Unlimited"
+    }
+  },
+  "license_provider": "It Is Unique Official",
+  "redirect_url": "https://www.itisuniqueofficial.com/",
+  "fallback_redirect_url": "https://www.itisuniqueofficial.com/error"
+}
